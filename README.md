@@ -1,4 +1,4 @@
-# SSM
+# SSMdemo
 Maven+SpringMVC+Spring+Mybayis+Mysql
 
 参考案例：
